@@ -1,6 +1,148 @@
-# Hello 👋
+# Since 2005...
 
-### 📫 <a href="https://alifuatnumanoglu.com/contact">Contact me here</a>
+#### **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
+</p>
+
+#### **AI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging Face-FFD21F?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stable--Baselines3-1A9F8A?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-17A2B8?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-00C7B7?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon SageMaker-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JupyterLab-3C5280?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-005571?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative AI-FF4C4C?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-005571?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reinforcement Learning-1E90FF?logo=python&logoColor=white" />
+</p>
+
+#### **Databases**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-005571?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white" />
+</p>
+
+#### **Web Development**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+</p>
+
+#### **Mobile Development**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+</p>
+
+#### **DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker Compose-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab CI%2FCD-FC6D26?logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
+</p>
+
+#### **Cloud**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
+</p>
+
+---
+
+#### **API & Microservices**
+<p>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth-008080?logo=oauth&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+</p>
+
+#### **Testing**
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/XCTest-FF2D55?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
+</p>
+
+---
+
+#### **Cyber Security**
+<p>
+  <img src="https://img.shields.io/badge/Kali Linux-557C94?logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214478?logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-5C2D91?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netcat-000000?logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dsniff-333333?logo=gnupg&logoColor=white" />
+</p>
+
+#### **Linux Distributions**
+<p>
+  <img src="https://img.shields.io/badge/RedHat-EE0000?logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali Linux-557C94?logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
+</p>
+
+---
+
+#### **Game Development**
+<p>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black" />
+</p>
+
+---
+
+### 📫 [Contact me here](https://alifuatnumanoglu.com/contact)
 - Fill out the contact form.
 - Please leave your contact info (email address or phone number).
 - If I don't get back to you in 48 hours, send a new message.
