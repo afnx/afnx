@@ -1,5 +1,3 @@
-# Since 2005...
-
 <div align="center" style="margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
