@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+love+coding;day+and+night+...;-+afn&font=VT323&size=42&color=F7982DC9&center=true&width=440&height=80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+love+coding;day+and+night+...;-+afn&font=VT323&size=42&color=FDF000&background=000000&center=true&vCenter=true&width=440&height=60" alt="Typing SVG" />
 </p>
-
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,swift,c,cs,php,dart,kotlin" />
 </p>
@@ -55,7 +55,6 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
@@ -80,7 +79,6 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Kali Linux-557C94?logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-214478?logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLmap-5C2D91?logo=sqlite&logoColor=white" />
