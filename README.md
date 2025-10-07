@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
 </div>
 <div align="center" style="margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
@@ -69,6 +67,12 @@
   <img src="https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth-008080?logo=oauth&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+</div>
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
 </div>
 <div align="center" style="margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
